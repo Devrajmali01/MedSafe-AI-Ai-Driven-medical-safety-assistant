@@ -4,7 +4,7 @@ MedSafe AI is an intelligent healthcare safety assistant designed to help users 
 
 ---
 
-🚀 Features
+🚀 Features:
 
 - 🔍 Medicine Interaction Checker
   Detects potentially dangerous drug combinations using a medicine interaction database.
